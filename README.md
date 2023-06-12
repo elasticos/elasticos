@@ -1,4 +1,4 @@
-### ElasticOS-kernel
+### ElasticOS-Kernel
 
 ***
 
