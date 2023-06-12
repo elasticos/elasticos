@@ -1,5 +1,7 @@
 ### ElasticOS
 
+***
+
 The future development direction of underlying ElasticOS includes the following aspects:
 
 **Enhanced Security**: With the increase in network threats and security vulnerabilities, future operating systems will focus more on security. This may include stronger isolation and security protection mechanisms, as well as stricter permission control and authentication.
@@ -15,7 +17,7 @@ The future development direction of underlying ElasticOS includes the following 
 In summary, future ElasticOS will continue to evolve and adapt to changing technological and application requirements, providing more secure, efficient, intelligent, and scalable computing environments.
 
 
-###
+***
 
 ElasticOS的未来发展方向包括以下几个方面：
 
