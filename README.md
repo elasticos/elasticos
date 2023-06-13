@@ -35,4 +35,4 @@ ElasticOS的未来规划方向包括以下几个方面：
 
 
 Support / 维护: elastic-os@outlook.com
-
+Twitter : https://twitter.com/elastic_os
